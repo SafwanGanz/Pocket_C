@@ -71,7 +71,7 @@
 Launch the script with `./pocketc.sh` to access the main menu:
 
 ### Main Menu
-![Main Menu Screenshot](https://via.placeholder.com/300x500.png?text=Main+Menu)  
+![Main Menu Screenshot](https://i.ibb.co/s96SrJxT/Screenshot-2025-03-04-01-58-45-528-com-termux.jpg)  
 *Screenshot: Shows the "Pocket C Emulator" title, options 1-5 in green, and the yellow "Enter your choice" prompt.*
 
 #### 1. Create New C Program
