@@ -15,7 +15,6 @@
 - **Compile & Run**: Build and execute C programs, with on-the-fly file creation if needed.
 - **View Code**: Inspect your source files.
 - **Examples**: Learn from a built-in C program sample.
-- **Modern UI**: Colorful, organized menus and prompts.
 
 ---
 
