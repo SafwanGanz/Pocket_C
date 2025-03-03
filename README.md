@@ -117,24 +117,6 @@ Launch the script with `./pocketc.sh` to access the main menu:
 
 ---
 
-## Screenshots
-
-*Note: Replace placeholder links with actual screenshots captured from Termux.*
-
-- **Main Menu**: Displays the colorful menu with options.
-- **Compile and Run**: Shows compiling and running a simple program.
-- **Example Program**: Displays the sample C code.
-
----
-
-## Troubleshooting
-
-- **"Repository not found"**: Ensure the URL is correct (`https://github.com/SafwanGanz/Pocket_C.git`) and the repo is public, or use credentials if private.
-- **"command not found"**: Verify `clang` and `git` are installed (`pkg install clang git`).
-- **No output**: Check your C code for syntax errors.
-- **Permission denied**: Run `chmod +x pocketc.sh` again.
-
----
 
 ## Contributing
 
@@ -148,6 +130,6 @@ This project is open-source under the [MIT License](LICENSE). Use it freely and 
 
 ---
 
-*Built with ❤️ by SafwanGanz for C programmers on the go.*
+Built with ❤️ by SafwanGanz for C programmers on the go.
 
 ---
