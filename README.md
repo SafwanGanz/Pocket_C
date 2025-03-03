@@ -85,7 +85,7 @@ Launch the script with `./pocketc.sh` to access the main menu:
 - Compiles with `clang` and runs the program if successful.
 - Displays output between blue separators.
 
-![Compile and Run Screenshot](https://via.placeholder.com/300x500.png?text=Compile+and+Run)  
+![Compile and Run Screenshot](https://i.ibb.co/dwTt8wpx/Screenshot-2025-03-04-02-03-08-516-com-termux.jpg)  
 *Screenshot: Shows entering "test", code input prompt, compilation message, and "Hello, World!" output.*
 
 #### 3. View Source Code
@@ -95,8 +95,6 @@ Launch the script with `./pocketc.sh` to access the main menu:
 #### 4. Show Example C Program
 - Displays a sample program that takes a number input and echoes it.
 
-![Example Screenshot](https://via.placeholder.com/300x500.png?text=Example+Program)  
-*Screenshot: Shows the example C code with input/output demo.*
 
 #### 5. Exit
 - Quits with a "Goodbye from Pocket C!" message.
