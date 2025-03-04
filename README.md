@@ -85,7 +85,7 @@ Launch the script with `./pocketc.sh` to access the main menu:
 - Displays output between blue separators.
 
 ![Compile and Run Screenshot](https://i.ibb.co/dwTt8wpx/Screenshot-2025-03-04-02-03-08-516-com-termux.jpg)  
-*Screenshot: Shows entering "test", code input prompt, compilation message, and "Hello, World!" output.*
+*Screenshot: Shows entering "test", code input prompt, compilation message, and "SafwanGanz" output.*
 
 #### 3. View Source Code
 - Enter a filename to display its contents.
