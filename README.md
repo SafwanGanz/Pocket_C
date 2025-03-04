@@ -130,6 +130,6 @@ This project is open-source under the [MIT License](LICENSE). Use it freely and 
 
 ---
 
-Built with ❤️ by SafwanGanz for C programmers on the go.
+Built with ❤️ by SafwanGanz
 
 ---
