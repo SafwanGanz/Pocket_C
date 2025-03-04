@@ -2,7 +2,7 @@
 # Pocket C Emulator
 
 ![Pocket C Banner](https://i.ibb.co/21VbZzdJ/20250304-015540.jpg)  
-*A lightweight C programming tool for Termux, designed for learning and coding on the go.*
+*A lightweight C programming tool for Termux, designed for learning and coding.*
 
 ---
 
